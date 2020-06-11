@@ -9,5 +9,8 @@ Android UI KIT Librarys
 8. https://github.com/Cleveroad/LoopBar
 9. https://github.com/githubwing/ByeBurger
 
+Android components samples
+1. https://github.com/android/architecture-components-samples
+
 JavaFX UI KIT Librarys
 1. https://github.com/dlsc-software-consulting-gmbh/FormsFX
