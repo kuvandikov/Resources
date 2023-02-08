@@ -1,0 +1,33 @@
+{
+  "status": "SUCCESS",
+  "isFinish": true,
+  "metaInfo": {
+    "requestId": "2fd5584d-2a59-44e9-82ae-a319d3e6e552"
+  },
+  "data": {
+    "cards": [
+      {
+        "id": "7b478612-fc5e-4bf2-b8fe-98f754cbc045",
+        "holderId": "b7fff8dc-d95a-433e-8875-ccae8f4c7d62",
+        "hash": "db0db8a6f7d944bbdf4ce5d16057b289w3f3b2cfc5734ee60",
+        "token": "C5E7516E0EBF4BCA901DF6D6ACF4DA4F",
+        "isTokenVerified": true,
+        "number": "8600123412341234",
+        "numberMasked": "860012********1234",
+        "expiry": "2508",
+        "phoneNumber": "+998-00-123-45-67",
+        "phoneNumberMasked": "+********4567",
+        "type": "PRIVATE",
+        "status": "VALID",
+        "isSmsNotificationEnabled": true,
+        "accountNumber": "20206001121234512345",
+        "accountNumberHashed": "341df2395f3f526c5ce1fe1f246ffb54wbe1f47ebe8c8f2ea",
+        "holderName": "Test",
+        "balance": 100,
+        "heldAmount": 0,
+        "cashbackAmount": 0
+      }
+    ]
+  }
+}
+
