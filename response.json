@@ -1,0 +1,9 @@
+{
+    "status": "ERROR",
+    "isFinish": true,
+    "error": {
+    "message": "Неправильный логин или пароль",
+    "code": "GEN-18",
+    "exceptionType": "UNAUTHORIZED"
+    }
+}
