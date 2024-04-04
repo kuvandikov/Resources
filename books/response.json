@@ -1,8 +1,16 @@
 [
   {
-    "title":"",
-    "author":"",
-    "category": "",
-    "imgUrl": ""
+    "title":"Sapiens. Insoniyatning qisqacha tarixi",
+    "author":"Yuval Noah Harari",
+    "category": "Tarix",
+    "publishedYear": 2014,
+    "imgUrl": "https://raw.githubusercontent.com/AnvarbekKuvandikov/Resources/master/books/IMG202403311128402961.png"
+  },
+  {
+    "title":"Atom odatlar. Kichik o‘zgarishlar, katta...",
+    "author":"James Clear",
+    "category": "Psixologiya",
+    "publishedYear": 2014,
+    "imgUrl": "https://raw.githubusercontent.com/AnvarbekKuvandikov/Resources/master/books/IMG202403311128404521.png"
   }
 ]
