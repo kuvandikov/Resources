@@ -1,9 +1,421 @@
 {
-    "status": "ERROR",
-    "isFinish": true,
-    "error": {
-    "message": "Неправильный логин или пароль",
-    "code": "GEN-18",
-    "exceptionType": "UNAUTHORIZED"
-    }
+  "status": "SUCCESS",
+  "isFinish": true,
+  "metaInfo": {
+    "requestId": "73ea4004-45f1-4f9b-a72b-1c99507eb15f"
+  },
+  "data": {
+    "historyList": [
+      {
+        "operDate": "27.01.2026",
+        "amount": 12356164,
+        "currency": "UZS",
+        "remainingBalance": 20500000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "26.01.2026",
+        "amount": 12356164,
+        "currency": "UZS",
+        "remainingBalance": 20500000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "25.01.2026",
+        "amount": 12356164,
+        "currency": "UZS",
+        "remainingBalance": 20500000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "24.01.2026",
+        "amount": 12356164,
+        "currency": "UZS",
+        "remainingBalance": 20500000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "23.01.2026",
+        "amount": 12356164,
+        "currency": "UZS",
+        "remainingBalance": 20500000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "23.01.2026",
+        "amount": 300000000,
+        "currency": "UZS",
+        "remainingBalance": 20500000000,
+        "title": "Списание",
+        "operation": "WITHDRAWAL"
+      },
+      {
+        "operDate": "22.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "21.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "20.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "19.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "18.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "17.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "16.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "15.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "14.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "13.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "12.01.2026",
+        "amount": 12536986,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "12.01.2026",
+        "amount": 200000000,
+        "currency": "UZS",
+        "remainingBalance": 20800000000,
+        "title": "Списание",
+        "operation": "WITHDRAWAL"
+      },
+      {
+        "operDate": "11.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "10.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "09.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "08.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "07.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "06.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "05.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "04.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "03.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "02.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "01.01.2026",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "31.12.2025",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "30.12.2025",
+        "amount": 12657534,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "29.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "29.12.2025",
+        "amount": 13000000000,
+        "currency": "UZS",
+        "remainingBalance": 21000000000,
+        "title": "Пополнение",
+        "operation": "REPLENISHMENT"
+      },
+      {
+        "operDate": "28.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "27.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "26.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "25.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "24.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "23.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "22.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "21.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "20.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "19.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "18.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "17.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "16.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "15.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "14.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "13.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      },
+      {
+        "operDate": "12.12.2025",
+        "amount": 4821918,
+        "currency": "UZS",
+        "remainingBalance": 8000000000,
+        "title": "Начисление процентов",
+        "operation": "INTEREST_ACCRUAL"
+      }
+    ],
+    "pageInfo": {
+      "page": 0,
+      "pageSize": 50,
+      "totalPages": 2,
+      "totalElements": 53,
+      "hasPrevious": false,
+      "hasNext": true
+    },
+    "branchCode": "01196",
+    "bookId": 15085
+  }
 }
